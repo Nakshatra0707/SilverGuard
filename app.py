@@ -120,7 +120,7 @@ with tabs[0]:  # Home Page
     elif st.button("English"):
         st.session_state.language = 'en'
 
-    title = "Silver Guard: "
+    title = "Silver Guard: Your Financial Ally"
     header = "About Us"
     text = "Silver Guard empowers elderly and disabled users with effortless financial management. It combines personalized advice, family oversight, and proactive cybersecurity, making digital finance secure, simple, and supportive."
 
