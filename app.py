@@ -6,7 +6,6 @@ from bson.objectid import ObjectId
 from pymongo import MongoClient
 from deep_translator import GoogleTranslator, DeeplTranslator
 from gtts import gTTS
-import os
 from openai import OpenAI
 
 api_key = st.secrets["openai"]["api_key"]
