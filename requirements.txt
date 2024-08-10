@@ -1,6 +1,5 @@
 streamlit
 pandas
-time
 gridfs
 deep_translator
 bson.objectid
