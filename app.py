@@ -113,6 +113,8 @@ if 'language' not in st.session_state:
 with tabs[0]:  # Home Page
     st.markdown('<div>', unsafe_allow_html=True)
 
+    st.image("logo.png")
+    
     if st.button("Hindi"):
         st.session_state.language = 'hi'
     elif st.button("English"):
