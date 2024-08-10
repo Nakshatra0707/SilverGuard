@@ -1,8 +1,7 @@
 streamlit
 pandas
 gridfs
-deep_translator
-bson.objectid
-gtts
 pymongo
+deep-translator
+gTTS
 openai
